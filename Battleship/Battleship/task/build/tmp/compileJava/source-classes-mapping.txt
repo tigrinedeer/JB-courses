@@ -1,0 +1,10 @@
+battleship/Ship.java
+ battleship.Ship
+battleship/FieldState.java
+ battleship.FieldState
+battleship/Main.java
+ battleship.Main
+battleship/Gamer.java
+ battleship.Gamer
+battleship/Field.java
+ battleship.Field
