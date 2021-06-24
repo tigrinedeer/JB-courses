@@ -1,0 +1,14 @@
+readability/TextCounter.java
+ readability.TextCounter
+readability/SMOGIndexCounter.java
+ readability.SMOGIndexCounter
+readability/Main.java
+ readability.Main
+readability/AutomatedReadabilityIndexCounter.java
+ readability.AutomatedReadabilityIndexCounter
+readability/IndexCounter.java
+ readability.IndexCounter
+readability/ColemanLiauIndexCounter.java
+ readability.ColemanLiauIndexCounter
+readability/FleschKincaidIndexCounter.java
+ readability.FleschKincaidIndexCounter
