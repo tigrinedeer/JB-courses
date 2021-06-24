@@ -1,0 +1,6 @@
+machine/MainTest.java
+ machine.Main
+ machine.Person
+machine/CoffeeMachine.java
+ machine.CoffeeMachine
+ machine.CoffeeMachine$State
